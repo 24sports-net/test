@@ -1,7 +1,7 @@
 [
     {
         "id": 1,
-        "event_category": "Cricket",
+        "event_category": "CRICKET",
         "title": "ENGLAND TOUR OF INDIA",
         "src": "https://img10.hotstar.com/image/upload/sources/r1/cms/prod/5215/1736263255215-a",
         "match-details": "INDIA vs ENGLAND",
@@ -39,7 +39,7 @@
     },
     {
         "id": 3,
-        "event_category": "Cricket",
+        "event_category": "CRICKET",
         "title": "RANJI TROPHY 2024-25",
         "src": "https://v3img.voot.com/v3Storage/assets/ranji_trohy_live_mum_vs_jk_horizontal_carousel-1737542470227.jpg",
         "match-details": "MUMBAI vs JAMMU KASHMIR",
@@ -51,7 +51,7 @@
     },
     {
         "id": 4,
-        "event_category": "Cricket",
+        "event_category": "CRICKET",
         "title": "RANJI TROPHY 2024-25",
         "src": "https://v3img.voot.com/v3Storage/assets/ranji_trohy_live_tn_vs_cg_horizontal_carousel-1737630573104.jpg",
         "match-details": "TAMIL NADU vs CHANDIGARH",
@@ -63,7 +63,7 @@
     },
     {
         "id": 5,
-        "event_category": "Cricket",
+        "event_category": "CRICKET",
         "title": "RANJI TROPHY 2024-25",
         "src": "https://v3img.voot.com/v3Storage/assets/ranji_trohy_live_kerala_vs_mp_horizontal_carousel-1737543332192.jpg",
         "match-details": "KERALA vs MADHYA PRADESH",
@@ -75,7 +75,7 @@
     },
     {
         "id": 6,
-        "event_category": "Cricket",
+        "event_category": "CRICKET",
         "title": "EE SAALA CUP NAMDE",
         "src": "https://v3img.voot.com/v3Storage/assets/ranji_trohy_live_mum_vs_jk_horizontal_carousel-1737542470227.jpg",
         "match-details": "MUMBAI vs JAMMU KASHMIR",
@@ -86,7 +86,7 @@
     },
     {
         "id": 7,
-        "event_category": "Cricket",
+        "event_category": "CRICKET",
         "title": "BKL",
         "src": "https://v3img.voot.com/v3Storage/assets/ranji_trohy_live_mum_vs_jk_horizontal_carousel-1737542470227.jpg",
         "match-details": "MUMBAI vs JAMMU KASHMIR",
@@ -98,7 +98,7 @@
     },
     {
         "id": 8,
-        "event_category": "Cricket",
+        "event_category": "CRICKET",
         "title": "MKC",
         "src": "https://v3img.voot.com/v3Storage/assets/ranji_trohy_live_mum_vs_jk_horizontal_carousel-1737542470227.jpg",
         "match-details": "vallathum nadakko",
