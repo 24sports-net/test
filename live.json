@@ -19,7 +19,6 @@
         "feed10": "https://24sports-network-prime.blogspot.com/?24spn=https://24sports-pro.blogspot.com/?id=513",
         "feed14": "https://24sports-network-prime.blogspot.com/?24spn=https://24sports-pro.blogspot.com/?id=513",
         "extra-info": "ODI",
-        "rank": "normal"
     },
     {
         "id": 2,
@@ -40,7 +39,7 @@
     },
     {
         "id": 3,
-        "event_category": "CRICKET",
+        "event_category": "Cricket",
         "title": "RANJI TROPHY 2024-25",
         "src": "https://v3img.voot.com/v3Storage/assets/ranji_trohy_live_mum_vs_jk_horizontal_carousel-1737542470227.jpg",
         "match-details": "MUMBAI vs JAMMU KASHMIR",
@@ -52,7 +51,7 @@
     },
     {
         "id": 4,
-        "event_category": "CRICKET",
+        "event_category": "Cricket",
         "title": "RANJI TROPHY 2024-25",
         "src": "https://v3img.voot.com/v3Storage/assets/ranji_trohy_live_tn_vs_cg_horizontal_carousel-1737630573104.jpg",
         "match-details": "TAMIL NADU vs CHANDIGARH",
@@ -64,7 +63,7 @@
     },
     {
         "id": 5,
-        "event_category": "CRICKET",
+        "event_category": "Cricket",
         "title": "RANJI TROPHY 2024-25",
         "src": "https://v3img.voot.com/v3Storage/assets/ranji_trohy_live_kerala_vs_mp_horizontal_carousel-1737543332192.jpg",
         "match-details": "KERALA vs MADHYA PRADESH",
@@ -76,7 +75,7 @@
     },
     {
         "id": 6,
-        "event_category": "CRICKET",
+        "event_category": "Cricket",
         "title": "EE SAALA CUP NAMDE",
         "src": "https://v3img.voot.com/v3Storage/assets/ranji_trohy_live_mum_vs_jk_horizontal_carousel-1737542470227.jpg",
         "match-details": "MUMBAI vs JAMMU KASHMIR",
@@ -84,11 +83,10 @@
         "live-status": "LIVE",
         "feed21": "https://24sports-network-prime.blogspot.com/?24spn=https://24sports-pro.blogspot.com/?id=513",
         "extra-info": "Round of 16",
-        "rank": "normal"
     },
     {
         "id": 7,
-        "event_category": "CRICKET",
+        "event_category": "Cricket",
         "title": "BKL",
         "src": "https://v3img.voot.com/v3Storage/assets/ranji_trohy_live_mum_vs_jk_horizontal_carousel-1737542470227.jpg",
         "match-details": "MUMBAI vs JAMMU KASHMIR",
@@ -100,7 +98,7 @@
     },
     {
         "id": 8,
-        "event_category": "CRICKET",
+        "event_category": "Cricket",
         "title": "MKC",
         "src": "https://v3img.voot.com/v3Storage/assets/ranji_trohy_live_mum_vs_jk_horizontal_carousel-1737542470227.jpg",
         "match-details": "vallathum nadakko",
@@ -108,6 +106,5 @@
         "live-status": "LIVE",
         "feed21": "https://24sports-network-prime.blogspot.com/?24spn=https://24sports-pro.blogspot.com/?id=513",
         "extra-info": "Round of 16",
-        "rank": "normal"
     }
 ]
