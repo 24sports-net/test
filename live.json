@@ -8,10 +8,8 @@
     "time": "26/01/2025 | 12:50 P.M IST",
     "live-status": "LIVE",
     "feeds": [
-        {"url": "https://24sports-network-prime.blogspot.com/?24spn=https://24sports-pro.blogspot.com/?id=513",
-            "buttonName": "FOOTBALL TV 1" },
-        {"url": "https://24sports-network-prime.blogspot.com/?24spn=https://24sports-pro.blogspot.com/?id=513",
-            "buttonName": "STAR SPORTS CRICKET" }
+        {"url": "https://24sports-network-prime.blogspot.com/?24spn=https://24sports-pro.blogspot.com/?id=513", "buttonName": "FOOTBALL TV 1" },
+        {"url": "https://24sports-network-prime.blogspot.com/?24spn=https://24sports-pro.blogspot.com/?id=513", "buttonName": "STAR SPORTS CRICKET" }
     ],
     "extra-info": "ODI",
     "rank": "normal"
