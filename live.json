@@ -25,7 +25,7 @@
         "feeds": [
             {"url": "https://24sports-network-prime.blogspot.com/?24spn=https://24sports-pro.blogspot.com/?id=513", "buttonName": "FOOTBALL TV 1 Feed 1"},
             {"url": "https://24sports-network-prime.blogspot.com/?24spn=https://24sports-pro.blogspot.com/?id=513", "buttonName": "STAR SPORTS CRICKET"}
-        ]
+        ],
         "extra-info": "ODI",
         "rank": "top"
     },
@@ -40,7 +40,7 @@
         "feeds": [
             {"url": "https://24sports-network-prime.blogspot.com/?24spn=https://24sports-pro.blogspot.com/?id=513", "buttonName": "FOOTBALL TV 1 Feed 1"},
             {"url": "https://24sports-network-prime.blogspot.com/?24spn=https://24sports-pro.blogspot.com/?id=513", "buttonName": "STAR SPORTS CRICKET"}
-        ]
+        ],
         "extra-info": "TEST",
         "rank": "normal"
     },
@@ -55,7 +55,7 @@
         "feeds": [
             {"url": "https://24sports-network-prime.blogspot.com/?24spn=https://24sports-pro.blogspot.com/?id=513", "buttonName": "FOOTBALL TV 1 Feed 1"},
             {"url": "https://24sports-network-prime.blogspot.com/?24spn=https://24sports-pro.blogspot.com/?id=513", "buttonName": "STAR SPORTS CRICKET"}
-        ]
+        ],
         "extra-info": "ODI",
         "rank": "top"
     },
@@ -70,7 +70,7 @@
         "feeds": [
             {"url": "https://24sports-network-prime.blogspot.com/?24spn=https://24sports-pro.blogspot.com/?id=513", "buttonName": "FOOTBALL TV 1 Feed 1"},
             {"url": "https://24sports-network-prime.blogspot.com/?24spn=https://24sports-pro.blogspot.com/?id=513", "buttonName": "STAR SPORTS CRICKET"}
-        ]
+        ],
         "extra-info": "ODI",
         "rank": "top"
     }
