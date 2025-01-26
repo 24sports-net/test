@@ -9,7 +9,9 @@
     "live-status": "LIVE",
     "feeds": [
         {"url": "https://24sports-network-prime.blogspot.com/?24spn=https://24sports-pro.blogspot.com/?id=513", "buttonName": "FOOTBALL TV 1" },
-        {"url": "https://24sports-network-prime.blogspot.com/?24spn=https://24sports-pro.blogspot.com/?id=513", "buttonName": "STAR SPORTS CRICKET" }
+        {"url": "https://24sports-network-prime.blogspot.com/?24spn=https://24sports-pro.blogspot.com/?id=513", "buttonName": "STAR SPORTS CRICKET" },
+        {"url": "https://24sports-network-prime.blogspot.com/?24spn=https://24sports-pro.blogspot.com/?id=513", "buttonName": "SKY SPORTS" },
+        {"url": "https://24sports-network-prime.blogspot.com/?24spn=https://24sports-pro.blogspot.com/?id=513", "buttonName": "SONY SPORTS" }
     ],
     "extra-info": "ODI",
     "rank": "normal"
@@ -23,8 +25,10 @@
         "time": "26/01/2025 | 01:00 P.M IST",
         "live-status": "LIVE",
         "feeds": [
-            {"url": "https://24sports-network-prime.blogspot.com/?24spn=https://24sports-pro.blogspot.com/?id=513", "buttonName": "FOOTBALL TV 1 Feed 1"},
-            {"url": "https://24sports-network-prime.blogspot.com/?24spn=https://24sports-pro.blogspot.com/?id=513", "buttonName": "STAR SPORTS CRICKET"}
+            {"url": "https://24sports-network-prime.blogspot.com/?24spn=https://24sports-pro.blogspot.com/?id=513", "buttonName": "ISL ENGLISH"},
+            {"url": "https://24sports-network-prime.blogspot.com/?24spn=https://24sports-pro.blogspot.com/?id=513", "buttonName": "ISL MALAYALAM"},
+            {"url": "https://24sports-network-prime.blogspot.com/?24spn=https://24sports-pro.blogspot.com/?id=513", "buttonName": "ISL HINDI" },
+            {"url": "https://24sports-network-prime.blogspot.com/?24spn=https://24sports-pro.blogspot.com/?id=513", "buttonName": "ISL BENGALI" }
         ],
         "extra-info": "ODI",
         "rank": "top"
