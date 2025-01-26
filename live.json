@@ -73,5 +73,20 @@
         ],
         "extra-info": "ODI",
         "rank": "top"
+    },
+    {
+        "id": 6,
+        "event_category": "Cricket",
+        "title": "ANDI CUP",
+        "src": "https://img10.hotstar.com/image/upload/sources/r1/cms/prod/9310/1734543159310-a",
+        "match-details": "SRI LANKA vs NEPAL",
+        "time": "26/01/2025 | 07:30 P.M IST",
+        "live-status": "LIVE",
+        "feeds": [
+            {"url": "https://24sports-network-prime.blogspot.com/?24spn=https://24sports-pro.blogspot.com/?id=513", "buttonName": "FOOTBALL TV 1 Feed 1"},
+            {"url": "https://24sports-network-prime.blogspot.com/?24spn=https://24sports-pro.blogspot.com/?id=513", "buttonName": "STAR SPORTS CRICKET"}
+        ],
+        "extra-info": "ODI",
+        "rank": "top"
     }
 ]
