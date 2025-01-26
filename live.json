@@ -7,17 +7,10 @@
         "match-details": "INDIA vs ENGLAND",
         "time": "26/01/2025 | 12:50 P.M IST",
         "live-status": "LIVE",
-        "STAR SPORTS 1 HD": "https://24sports-network-prime.blogspot.com/?24spn=https://24sports-pro.blogspot.com/?id=513",
-        "STAR SELECT": "https://24sports-network-prime.blogspot.com/?24spn=https://24sports-pro.blogspot.com/?id=513",
-        "SKY SPORTS CRICKET": "https://24sports-network-prime.blogspot.com/?24spn=https://24sports-pro.blogspot.com/?id=513",
-        "SKY SPORTS 3 NZ": "https://24sports-network-prime.blogspot.com/?24spn=https://24sports-pro.blogspot.com/?id=513",
-        "FOOTBALL TV 1": "https://24sports-network-prime.blogspot.com/?24spn=https://24sports-pro.blogspot.com/?id=513",
-        "FOOTBALL TV 2": "https://24sports-network-prime.blogspot.com/?24spn=https://24sports-pro.blogspot.com/?id=513",
-        "FOOTBALL TV 3": "https://24sports-network-prime.blogspot.com/?24spn=https://24sports-pro.blogspot.com/?id=513",
-        "feed8": "https://24sports-network-prime.blogspot.com/?24spn=https://24sports-pro.blogspot.com/?id=513",
-        "feed9": "https://24sports-network-prime.blogspot.com/?24spn=https://24sports-pro.blogspot.com/?id=513",
-        "feed10": "https://24sports-network-prime.blogspot.com/?24spn=https://24sports-pro.blogspot.com/?id=513",
-        "feed14": "https://24sports-network-prime.blogspot.com/?24spn=https://24sports-pro.blogspot.com/?id=513",
+        "feeds": [
+            {"url": "https://24sports-network-prime.blogspot.com/?24spn=https://24sports-pro.blogspot.com/?id=513", "buttonName": "FOOTBALL TV 1 Feed 1"},
+            {"url": "https://24sports-network-prime.blogspot.com/?24spn=https://24sports-pro.blogspot.com/?id=513", "buttonName": "STAR SPORTS CRICKET"}
+        ]
         "extra-info": "ODI",
         "rank": "normal"
     },
@@ -29,17 +22,10 @@
         "match-details": "CSK vs MI",
         "time": "26/01/2025 | 01:00 P.M IST",
         "live-status": "LIVE",
-        "STAR SPORTS 1 HD": "https://24sports-network-prime.blogspot.com/?24spn=https://24sports-pro.blogspot.com/?id=513",
-        "STAR SELECT": "https://24sports-network-prime.blogspot.com/?24spn=https://24sports-pro.blogspot.com/?id=513",
-        "SKY SPORTS CRICKET": "https://24sports-network-prime.blogspot.com/?24spn=https://24sports-pro.blogspot.com/?id=513",
-        "SKY SPORTS 3 NZ": "https://24sports-network-prime.blogspot.com/?24spn=https://24sports-pro.blogspot.com/?id=513",
-        "FOOTBALL TV 1": "https://24sports-network-prime.blogspot.com/?24spn=https://24sports-pro.blogspot.com/?id=513",
-        "FOOTBALL TV 2": "https://24sports-network-prime.blogspot.com/?24spn=https://24sports-pro.blogspot.com/?id=513",
-        "FOOTBALL TV 3": "https://24sports-network-prime.blogspot.com/?24spn=https://24sports-pro.blogspot.com/?id=513",
-        "feed8": "https://24sports-network-prime.blogspot.com/?24spn=https://24sports-pro.blogspot.com/?id=513",
-        "feed9": "https://24sports-network-prime.blogspot.com/?24spn=https://24sports-pro.blogspot.com/?id=513",
-        "feed10": "https://24sports-network-prime.blogspot.com/?24spn=https://24sports-pro.blogspot.com/?id=513",
-        "feed14": "https://24sports-network-prime.blogspot.com/?24spn=https://24sports-pro.blogspot.com/?id=513",
+        "feeds": [
+            {"url": "https://24sports-network-prime.blogspot.com/?24spn=https://24sports-pro.blogspot.com/?id=513", "buttonName": "FOOTBALL TV 1 Feed 1"},
+            {"url": "https://24sports-network-prime.blogspot.com/?24spn=https://24sports-pro.blogspot.com/?id=513", "buttonName": "STAR SPORTS CRICKET"}
+        ]
         "extra-info": "ODI",
         "rank": "top"
     },
@@ -51,18 +37,11 @@
         "match-details": "MANCHESTER vs LIVERPOOL",
         "time": "26/01/2025 | 01:30 P.M IST",
         "live-status": "LIVE",
-        "STAR SPORTS 1 HD": "https://24sports-network-prime.blogspot.com/?24spn=https://24sports-pro.blogspot.com/?id=513",
-        "STAR SELECT": "https://24sports-network-prime.blogspot.com/?24spn=https://24sports-pro.blogspot.com/?id=513",
-        "SKY SPORTS CRICKET": "https://24sports-network-prime.blogspot.com/?24spn=https://24sports-pro.blogspot.com/?id=513",
-        "SKY SPORTS 3 NZ": "https://24sports-network-prime.blogspot.com/?24spn=https://24sports-pro.blogspot.com/?id=513",
-        "FOOTBALL TV 1": "https://24sports-network-prime.blogspot.com/?24spn=https://24sports-pro.blogspot.com/?id=513",
-        "FOOTBALL TV 2": "https://24sports-network-prime.blogspot.com/?24spn=https://24sports-pro.blogspot.com/?id=513",
-        "FOOTBALL TV 3": "https://24sports-network-prime.blogspot.com/?24spn=https://24sports-pro.blogspot.com/?id=513",
-        "feed8": "https://24sports-network-prime.blogspot.com/?24spn=https://24sports-pro.blogspot.com/?id=513",
-        "feed9": "https://24sports-network-prime.blogspot.com/?24spn=https://24sports-pro.blogspot.com/?id=513",
-        "feed10": "https://24sports-network-prime.blogspot.com/?24spn=https://24sports-pro.blogspot.com/?id=513",
-        "feed14": "https://24sports-network-prime.blogspot.com/?24spn=https://24sports-pro.blogspot.com/?id=513",
-        "extra-info": "ODI",
+        "feeds": [
+            {"url": "https://24sports-network-prime.blogspot.com/?24spn=https://24sports-pro.blogspot.com/?id=513", "buttonName": "FOOTBALL TV 1 Feed 1"},
+            {"url": "https://24sports-network-prime.blogspot.com/?24spn=https://24sports-pro.blogspot.com/?id=513", "buttonName": "STAR SPORTS CRICKET"}
+        ]
+        "extra-info": "TEST",
         "rank": "normal"
     },
     {
@@ -73,17 +52,10 @@
         "match-details": "MELBOURNE vs HOBART",
         "time": "26/01/2025 | 02:45 P.M IST",
         "live-status": "LIVE",
-        "STAR SPORTS 1 HD": "https://24sports-network-prime.blogspot.com/?24spn=https://24sports-pro.blogspot.com/?id=513",
-        "STAR SELECT": "https://24sports-network-prime.blogspot.com/?24spn=https://24sports-pro.blogspot.com/?id=513",
-        "SKY SPORTS CRICKET": "https://24sports-network-prime.blogspot.com/?24spn=https://24sports-pro.blogspot.com/?id=513",
-        "SKY SPORTS 3 NZ": "https://24sports-network-prime.blogspot.com/?24spn=https://24sports-pro.blogspot.com/?id=513",
-        "FOOTBALL TV 1": "https://24sports-network-prime.blogspot.com/?24spn=https://24sports-pro.blogspot.com/?id=513",
-        "FOOTBALL TV 2": "https://24sports-network-prime.blogspot.com/?24spn=https://24sports-pro.blogspot.com/?id=513",
-        "FOOTBALL TV 3": "https://24sports-network-prime.blogspot.com/?24spn=https://24sports-pro.blogspot.com/?id=513",
-        "feed8": "https://24sports-network-prime.blogspot.com/?24spn=https://24sports-pro.blogspot.com/?id=513",
-        "feed9": "https://24sports-network-prime.blogspot.com/?24spn=https://24sports-pro.blogspot.com/?id=513",
-        "feed10": "https://24sports-network-prime.blogspot.com/?24spn=https://24sports-pro.blogspot.com/?id=513",
-        "feed14": "https://24sports-network-prime.blogspot.com/?24spn=https://24sports-pro.blogspot.com/?id=513",
+        "feeds": [
+            {"url": "https://24sports-network-prime.blogspot.com/?24spn=https://24sports-pro.blogspot.com/?id=513", "buttonName": "FOOTBALL TV 1 Feed 1"},
+            {"url": "https://24sports-network-prime.blogspot.com/?24spn=https://24sports-pro.blogspot.com/?id=513", "buttonName": "STAR SPORTS CRICKET"}
+        ]
         "extra-info": "ODI",
         "rank": "top"
     },
@@ -95,17 +67,10 @@
         "match-details": "SRI LANKA vs NEPAL",
         "time": "26/01/2025 | 12:30 P.M IST",
         "live-status": "LIVE",
-        "STAR SPORTS 1 HD": "https://24sports-network-prime.blogspot.com/?24spn=https://24sports-pro.blogspot.com/?id=513",
-        "STAR SELECT": "https://24sports-network-prime.blogspot.com/?24spn=https://24sports-pro.blogspot.com/?id=513",
-        "SKY SPORTS CRICKET": "https://24sports-network-prime.blogspot.com/?24spn=https://24sports-pro.blogspot.com/?id=513",
-        "SKY SPORTS 3 NZ": "https://24sports-network-prime.blogspot.com/?24spn=https://24sports-pro.blogspot.com/?id=513",
-        "FOOTBALL TV 1": "https://24sports-network-prime.blogspot.com/?24spn=https://24sports-pro.blogspot.com/?id=513",
-        "FOOTBALL TV 2": "https://24sports-network-prime.blogspot.com/?24spn=https://24sports-pro.blogspot.com/?id=513",
-        "FOOTBALL TV 3": "https://24sports-network-prime.blogspot.com/?24spn=https://24sports-pro.blogspot.com/?id=513",
-        "feed8": "https://24sports-network-prime.blogspot.com/?24spn=https://24sports-pro.blogspot.com/?id=513",
-        "feed9": "https://24sports-network-prime.blogspot.com/?24spn=https://24sports-pro.blogspot.com/?id=513",
-        "feed10": "https://24sports-network-prime.blogspot.com/?24spn=https://24sports-pro.blogspot.com/?id=513",
-        "feed14": "https://24sports-network-prime.blogspot.com/?24spn=https://24sports-pro.blogspot.com/?id=513",
+        "feeds": [
+            {"url": "https://24sports-network-prime.blogspot.com/?24spn=https://24sports-pro.blogspot.com/?id=513", "buttonName": "FOOTBALL TV 1 Feed 1"},
+            {"url": "https://24sports-network-prime.blogspot.com/?24spn=https://24sports-pro.blogspot.com/?id=513", "buttonName": "STAR SPORTS CRICKET"}
+        ]
         "extra-info": "ODI",
         "rank": "top"
     }
