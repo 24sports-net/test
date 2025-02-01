@@ -6,7 +6,7 @@
     "src": "https://img10.hotstar.com/image/upload/sources/r1/cms/prod/5215/1736263255215-a",
     "match-details": "INDIA vs ENGLAND",
     "time": "01/02/2025 | 11:00 P.M IST",
-    "end-time": "01/02/2025 | 11:30 P.M IST",
+    "end-time": "01/02/2025 | 11:50 P.M IST",
     "live-status": "LIVE",
     "feeds": [
         {"url": "https://24sports-network-prime.blogspot.com/?24spn=https://24sports-pro.blogspot.com/?id=513", "buttonName": "FOOTBALL TV 1" },
@@ -35,7 +35,7 @@
         "src": "https://img10.hotstar.com/image/upload/sources/r1/cms/prod/532/1735025930532-a",
         "match-details": "CSK vs MI",
         "time": "01/02/2025 | 11:10 P.M IST",
-        "end-time": "01/02/2025 | 11:30 P.M IST",
+        "end-time": "01/02/2025 | 11:50 P.M IST",
         "live-status": "LIVE",
         "feeds": [
             {"url": "https://24sports-network-prime.blogspot.com/?24spn=https://24sports-pro.blogspot.com/?id=513", "buttonName": "ISL ENGLISH"},
@@ -52,8 +52,8 @@
         "title": "PREMIER LEAGUE",
         "src": "https://img10.hotstar.com/image/upload/sources/r1/cms/prod/9545/1569545-a-0e8b7f6d139b",
         "match-details": "MANCHESTER vs LIVERPOOL",
-        "time": "01/02/2025 | 11:10 P.M IST",
-        "end-time": "01/02/2025 | 11:30 P.M IST",
+        "time": "01/02/2025 | 11:00 P.M IST",
+        "end-time": "01/02/2025 | 11:50 P.M IST",
         "live-status": "LIVE",
         "feeds": [
             {"url": "https://24sports-network-prime.blogspot.com/?24spn=https://24sports-pro.blogspot.com/?id=513", "buttonName": "FOOTBALL TV 1 Feed 1"},
@@ -69,7 +69,7 @@
         "src": "https://img10.hotstar.com/image/upload/sources/r1/cms/prod/2214/1632214-a-c533aa830ef0",
         "match-details": "MELBOURNE vs HOBART",
         "time": "01/02/2025 | 11:10 P.M IST",
-        "end-time": "01/02/2025 | 11:30 P.M IST",
+        "end-time": "01/02/2025 | 11:50 P.M IST",
         "live-status": "LIVE",
         "feeds": [
             {"url": "https://24sports-network-prime.blogspot.com/?24spn=https://24sports-pro.blogspot.com/?id=513", "buttonName": "FOOTBALL TV 1 Feed 1"},
@@ -85,7 +85,7 @@
         "src": "https://img10.hotstar.com/image/upload/sources/r1/cms/prod/9310/1734543159310-a",
         "match-details": "SRI LANKA vs NEPAL",
         "time": "01/02/2025 | 11:10 A.M IST",
-        "end-time": "01/02/2025 | 11:50 P.M IST",
+        "end-time": "01/02/2025 | 11:59 P.M IST",
         "live-status": "LIVE",
         "feeds": [
             {"url": "https://24sports-network-prime.blogspot.com/?24spn=https://24sports-pro.blogspot.com/?id=513", "buttonName": "FOOTBALL TV 1 Feed 1"},
