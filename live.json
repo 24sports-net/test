@@ -30,7 +30,7 @@
     },
     {
         "id": 2,
-        "event_category": "Cricket",
+        "event_category": "HOCKEY",
         "title": "WOMENS PREMIER LEAGUE",
         "src": "https://img10.hotstar.com/image/upload/sources/r1/cms/prod/532/1735025930532-a",
         "match-details": "ROYAL CHALLENGERS BENGALURU WOMEN vs MUMBAI INDIAN WOMEN",
@@ -47,7 +47,7 @@
     },
     {
         "id": 3,
-        "event_category": "Cricket",
+        "event_category": "BASKETBALL",
         "title": "MAJOR LEAGUE CRICKET",
         "src": "https://img10.hotstar.com/image/upload/sources/r1/cms/prod/2091/1750823502091-h",
         "match-details": "TEXAS SUPER KINGS vs LA KNIGHT RIDERS",
@@ -98,7 +98,7 @@
     },
     {
         "id": 6,
-        "event_category": "Cricket",
+        "event_category": "FOOTBALL",
         "title": "WORLD TEST CHAMPIONSHIP FINAL",
         "src": "https://img10.hotstar.com/image/upload/sources/r1/cms/prod/5024/1505024-a-d94ca3f03469",
         "match-details": "SOUTH AFRICA vs AUSTRALIA",
@@ -115,7 +115,7 @@
     },
     {
         "id": 7,
-        "event_category": "Football",
+        "event_category": "FOOTBALL",
         "title": "ENGLISH PREMIER LEAGUE",
         "src": "https://img10.hotstar.com/image/upload/sources/r1/cms/prod/9545/1569545-a-0e8b7f6d139b",
         "match-details": "LIVERPOOL vs MANCHESTER CITY",
