@@ -1,98 +1,77 @@
 [
     {
     "id": 1,
-    "event_category": "Cricket",
-    "title": "ICC CHAMPIONS TROPHY 2025",
-    "src": "https://img10.hotstar.com/image/upload/sources/r1/cms/prod/5209/1740234845209-h",
-    "match-details": "AFGHANISTAN vs ENGLAND",
-    "time": "25/06/2025 | 02:30 P.M IST",
-    "end-time": "30/07/2025 | 07:00 P.M IST",
+    "event_category": "FOOTBALL",
+    "title": "UEFA CHAMPIONS LEAGUE 2025-2026",
+    "src": "https://r2.thesportsdb.com/images/media/event/thumb/a66rl11750759117.jpg",
+    "match-details": "Lincoln Red Imps vs Víkingur Gøta",
+    "time": "15/07/2025 | 09:30 P.M IST",
+    "end-time": "16/07/2025 | 00:00 A.M IST",
     "live-status": "LIVE",
     "feeds": [
-        {"url": "https://24sports-net-amazon-prime.blogspot.com/", "buttonName": "AMAZON PRIME ENGLISH" },
-        {"url": "https://24sports-net-amazon-prime.blogspot.com/", "buttonName": "AMAZON PRIME HINDI" },
-        {"url": "https://24sports-network-prime.blogspot.com/?24spn=https://24sports-pro.blogspot.com/?id=502", "buttonName": "SKY SPORTS CRICKET WORLDWIDE" },
-        {"url": "https://24sports-network-prime.blogspot.com/?24spn=https://24sports-pro.blogspot.com/?id=503", "buttonName": "SKY SPORTS CRICKET WORLDWIDE IOS" },
-        {"url": "https://24sports-network-prime.blogspot.com/?24spn=https://24sports-pro.blogspot.com/?id=504", "buttonName": "SPORTS18 HD WORLDWIDE" },
-        {"url": "https://24sports-network-prime.blogspot.com/?24spn=https://24sports-pro.blogspot.com/?id=505", "buttonName": "SPOERS18 HD WORLDWIDE IOS" },
-        {"url": "https://24sports-network-prime.blogspot.com/?24spn=https://24sports-pro.blogspot.com/?id=506", "buttonName": "GEO SUPER" },
-        {"url": "https://24sports-network-prime.blogspot.com/?24spn=https://24sports-pro.blogspot.com/?id=507", "buttonName": "ASTRO CRICKET (MALAYSIA ONLY)" },
-        {"url": "https://24sports-network-prime.blogspot.com/?24spn=https://24sports-pro.blogspot.com/?id=508", "buttonName": "WILLOW PLUS" },
-        {"url": "https://24sports-network-prime.blogspot.com/?24spn=https://24sports-pro.blogspot.com/?id=509", "buttonName": "WILLOW PLUS IOS" },
-        {"url": "https://24sports-network-prime.blogspot.com/?24spn=https://24sports-pro.blogspot.com/?id=510", "buttonName": "SPORTS18 1 HD (INDIA ONLY)" },
-        {"url": "https://24sports-network-prime.blogspot.com/?24spn=https://24sports-pro.blogspot.com/?id=511", "buttonName": "SPORTS18 1 HD IOS (INDIA ONLY)" },
-        {"url": "https://24sports-network-prime.blogspot.com/?24spn=https://24sports-pro.blogspot.com/?id=512", "buttonName": "SPORTS18 1 HD WORLDWIDE" },
-        {"url": "https://24sports-network-prime.blogspot.com/?24spn=https://24sports-pro.blogspot.com/?id=513", "buttonName": "SPORTS18 KHEL (INDIA ONLY)" },
-        {"url": "https://24sports-network-prime.blogspot.com/?24spn=https://24sports-pro.blogspot.com/?id=514", "buttonName": "SPORTS18 KHEL IOS (INDIA ONLY)" },
-        {"url": "https://24sports-network-prime.blogspot.com/?24spn=https://24sports-pro.blogspot.com/?id=515", "buttonName": "SPORTS18 KHEL WORLDWIDE" }
+        {"url": "https://24sports-net.blogspot.com/?24spn=https://24sports-plus.blogspot.com/?id=291", "buttonName": "ARENA 1 PREMIUM" }
     ],
     "rank": "normal"
     },
     {
         "id": 2,
-        "event_category": "HOCKEY",
-        "title": "WOMENS PREMIER LEAGUE",
-        "src": "https://img10.hotstar.com/image/upload/sources/r1/cms/prod/532/1735025930532-a",
-        "match-details": "RCB vs MI",
-        "time": "25/06/2025 | 02:07 P.M IST",
-        "end-time": "30/07/2025 | 12:00 P.M IST",
+        "event_category": "FOOTBALL",
+        "title": "UEFA CHAMPIONS LEAGUE 2025-2026",
+        "src": "https://r2.thesportsdb.com/images/media/event/thumb/yjieip1750759139.jpg",
+        "match-details": "Shkëndija vs The New Saints",
+        "time": "15/07/2025 | 11:30 P.M IST",
+        "end-time": "16/07/2025 | 02:00 A.M IST",
         "live-status": "LIVE",
         "feeds": [
-            {"url": "https://24sports-network-prime.blogspot.com/?24spn=https://topembed.pw/channel/SkySportsNews[UK]", "buttonName": "ISL ENGLISH"},
-            {"url": "https://24sports-network-prime.blogspot.com/?24spn=https://24sports-pro.blogspot.com/?id=513", "buttonName": "ISL MALAYALAM"},
-            {"url": "https://24sports-network-prime.blogspot.com/?24spn=https://24sports-pro.blogspot.com/?id=513", "buttonName": "ISL HINDI" },
-            {"url": "https://24sports-network-prime.blogspot.com/?24spn=https://24sports-pro.blogspot.com/?id=513", "buttonName": "ISL BENGALI" }
+            {"url": "https://24sports-net.blogspot.com/?24spn=https://24sports-plus.blogspot.com/?id=356", "buttonName": "S4C UK"}
         ],
         "rank": "top"
     },
     {
         "id": 3,
-        "event_category": "BASKETBALL",
-        "title": "MAJOR LEAGUE CRICKET",
-        "src": "https://img10.hotstar.com/image/upload/sources/r1/cms/prod/2091/1750823502091-h",
-        "match-details": "TEXAS SUPER KINGS vs LA KNIGHT RIDERS",
-        "time": "25/06/2025 | 01:05 P.M IST",
-        "end-time": "30/07/2025 | 12:00 A.M IST",
+        "event_category": "FOOTBALL",
+        "title": "AFRICA WOMEN CUP OF NATIONS",
+        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQUFQvEQWv9L-mI5XoA7oZmQ9_BvljYoGb9Di7rwQ1QrCpXExzf",
+        "match-details": "SOUTH AFRICA vs MALI",
+        "time": "15/07/2025 | 12:30 A.M IST",
+        "end-time": "15/07/2025 | 02:30 A.M IST",
         "live-status": "LIVE",
         "feeds": [
-            {"url": "https://24sports-network-prime.blogspot.com/?24spn=https://24sports-pro.blogspot.com/?id=513", "buttonName": "ISL ENGLISH"},
-            {"url": "https://24sports-network-prime.blogspot.com/?24spn=https://24sports-pro.blogspot.com/?id=513", "buttonName": "ISL MALAYALAM"},
-            {"url": "https://24sports-network-prime.blogspot.com/?24spn=https://24sports-pro.blogspot.com/?id=513", "buttonName": "ISL HINDI" },
-            {"url": "https://24sports-network-prime.blogspot.com/?24spn=https://24sports-pro.blogspot.com/?id=513", "buttonName": "ISL BENGALI" }
+            {"url": "https://24sports-net.blogspot.com/?24spn=https://24sports-plus.blogspot.com/?id=106", "buttonName": "SPORT TV 1 PORTUGAL"},
+            {"url": "https://24sports-net.blogspot.com/?24spn=https://24sports-plus.blogspot.com/?id=126", "buttonName": "SUPERSPORT PSL" },
+            {"url": "https://24sports-net.blogspot.com/?24spn=https://24sports-plus.blogspot.com/?id=384", "buttonName": "BEIN SPORTS USA" }
         ],
         "rank": "top"
     },
     {
         "id": 4,
-        "event_category": "Cricket",
-        "title": "INDIAN PREMIER LEAGUE",
-        "src": "https://img10.hotstar.com/image/upload/sources/r1/cms/prod/6613/1748189306613-h",
-        "match-details": "CHENNAI SUPER KINGS vs GUJARAT TITANS",
-        "time": "25/06/2025 | 01:27 P.M IST",
-        "end-time": "30/07/2025 | 02:00 P.M IST",
+        "event_category": "FOOTBALL",
+        "title": "CLUB FRIENDLY",
+        "src": "https://mrfixitstips.co.uk/app/uploads/2025/07/Sydney-v-Wrexham.jpg",
+        "match-details": "SYDNEY FC vs WREXHAM FC",
+        "time": "15/07/2025 | 03:00 P.M IST",
+        "end-time": "15/07/2025 | 05:30 P.M IST",
         "live-status": "LIVE",
         "feeds": [
-            {"url": "https://24sports-network-prime.blogspot.com/?24spn=https://24sports-pro.blogspot.com/?id=513", "buttonName": "ISL ENGLISH"},
-            {"url": "https://24sports-network-prime.blogspot.com/?24spn=https://24sports-pro.blogspot.com/?id=513", "buttonName": "ISL MALAYALAM"},
-            {"url": "https://24sports-network-prime.blogspot.com/?24spn=https://24sports-pro.blogspot.com/?id=513", "buttonName": "ISL HINDI" },
-            {"url": "https://24sports-network-prime.blogspot.com/?24spn=https://24sports-pro.blogspot.com/?id=513", "buttonName": "ISL BENGALI" }
+            {"url": "https://24sports-net.blogspot.com/?24spn=https://24sports-plus.blogspot.com/?id=106", "buttonName": "SPORT TV 1 PORTUGAL"},
+            {"url": "https://24sports-net.blogspot.com/?24spn=https://24sports-plus.blogspot.com/?id=105", "buttonName": "SKY SPORT TOP EVENTS"}
         ],
         "rank": "top"
     },
     {
         "id": 5,
-        "event_category": "Cricket",
-        "title": "PATAUDI TROPHY 2025",
-        "src": "https://img10.hotstar.com/image/upload/sources/r1/cms/prod/8242/1748283348242-a",
+        "event_category": "CRICKET",
+        "title": "AUSTRALIA TOUR OF WEST INDIES, 2025",
+        "src": "https://www.fancode.com/skillup-uploads/cms-media/WI_vs_AUS_2025_Old_match-card_2025_Old_match-card.jpg",
         "match-details": "ENGLAND vs INDIA",
-        "time": "25/06/2025 | 01:17 P.M IST",
-        "end-time": "30/07/2025 | 12:00 A.M IST",
+        "time": "16/07/2025 | 12:00 A.M IST",
+        "end-time": "17/07/2025 | 10:00 A.M IST",
         "live-status": "LIVE",
         "feeds": [
-            {"url": "https://24sports-network-prime.blogspot.com/?24spn=https://24sports-pro.blogspot.com/?id=513", "buttonName": "ISL ENGLISH"},
-            {"url": "https://24sports-network-prime.blogspot.com/?24spn=https://24sports-pro.blogspot.com/?id=513", "buttonName": "ISL MALAYALAM"},
-            {"url": "https://24sports-network-prime.blogspot.com/?24spn=https://24sports-pro.blogspot.com/?id=513", "buttonName": "ISL HINDI" },
-            {"url": "https://24sports-network-prime.blogspot.com/?24spn=https://24sports-pro.blogspot.com/?id=513", "buttonName": "ISL BENGALI" }
+            {"url": "https://24sports-fancode.blogspot.com", "buttonName": "FANCODE (INDIA)"},
+            {"url": "https://24sports-net.blogspot.com/?24spn=https://24sports-plus.blogspot.com/?id=29", "buttonName": "TNT SPORTS"},
+            {"url": "https://24sports-net.blogspot.com/?24spn=https://24sports-plus.blogspot.com/?id=120", "buttonName": "SUPERSPORT CRICKET" },
+            {"url": "https://24sports-net.blogspot.com/?24spn=https://24sports-plus.blogspot.com/?id=123", "buttonName": "SUPERSPORT GRANDSTAND" }
         ],
         "rank": "top"
     },
