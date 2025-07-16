@@ -2,76 +2,80 @@
     {
     "id": 1,
     "event_category": "FOOTBALL",
-    "title": "UEFA CHAMPIONS LEAGUE 2025-2026",
-    "src": "https://r2.thesportsdb.com/images/media/event/thumb/a66rl11750759117.jpg",
-    "match-details": "Lincoln Red Imps vs Víkingur Gøta",
-    "time": "15/07/2025 | 09:30 P.M IST",
-    "end-time": "16/07/2025 | 00:00 A.M IST",
+    "title": "CLUB FRIENDLY",
+    "src": "https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/9106/live/2f03e830-a97f-11ee-bc2f-cb5579b90709.png",
+    "match-details": "BRIGHTON & HOVE ALBION vs STOKE CITY",
+    "time": "17/07/2025 | 12:00 A.M IST",
+    "end-time": "17/07/2025 | 02:30 A.M IST",
     "live-status": "LIVE",
     "feeds": [
-        {"url": "https://24sports-net.blogspot.com/?24spn=https://24sports-plus.blogspot.com/?id=291", "buttonName": "ARENA 1 PREMIUM" }
+        {"url": "https://24sports-net.blogspot.com/?24spn=https://24sports-plus.blogspot.com/?id=291", "buttonName": "ARENA 1 PREMIUM" },
+            {"url": "https://24sports-net.blogspot.com/?24spn=https://24sports-plus.blogspot.com/?id=52", "buttonName": "ESPN DEPORTES" }
     ],
     "rank": "normal"
     },
     {
         "id": 2,
         "event_category": "FOOTBALL",
-        "title": "UEFA CHAMPIONS LEAGUE 2025-2026",
-        "src": "https://r2.thesportsdb.com/images/media/event/thumb/yjieip1750759139.jpg",
-        "match-details": "Shkëndija vs The New Saints",
-        "time": "15/07/2025 | 11:30 P.M IST",
-        "end-time": "16/07/2025 | 02:00 A.M IST",
+        "title": "CLUB FRIENDLY",
+        "src": "https://tips.gg/match/panathinaikos-vs-westerlo-16-07-2025-07-00/poster/",
+        "match-details": "WESTERLO vs PANATHINAIKOS",
+        "time": "17/07/2025 | 12:00 A.M IST",
+        "end-time": "17/07/2025 | 02:30 A.M IST",
         "live-status": "LIVE",
         "feeds": [
-            {"url": "https://24sports-net.blogspot.com/?24spn=https://24sports-plus.blogspot.com/?id=356", "buttonName": "S4C UK"}
+            {"url": "https://24sports-net.blogspot.com/?24spn=https://24sports-plus.blogspot.com/?id=302", "buttonName": "COSMOTE SPORTS 1"}
         ],
         "rank": "top"
     },
     {
         "id": 3,
         "event_category": "FOOTBALL",
-        "title": "AFRICA WOMEN CUP OF NATIONS",
-        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQUFQvEQWv9L-mI5XoA7oZmQ9_BvljYoGb9Di7rwQ1QrCpXExzf",
-        "match-details": "SOUTH AFRICA vs MALI",
-        "time": "15/07/2025 | 12:30 A.M IST",
-        "end-time": "15/07/2025 | 02:30 A.M IST",
+        "title": "UEFA CHAMPIONS LEAGUE 2025-2026",
+        "src": "https://mrfixitstips.co.uk/app/uploads/2025/07/Dinamo-Minsk-v-Ludogorets.jpg",
+        "match-details": "DINAMO MINSK vs LUDOGORETS",
+        "time": "17/07/2025 | 12:45 A.M IST",
+        "end-time": "17/07/2025 | 03:00 A.M IST",
         "live-status": "LIVE",
         "feeds": [
-            {"url": "https://24sports-net.blogspot.com/?24spn=https://24sports-plus.blogspot.com/?id=106", "buttonName": "SPORT TV 1 PORTUGAL"},
-            {"url": "https://24sports-net.blogspot.com/?24spn=https://24sports-plus.blogspot.com/?id=126", "buttonName": "SUPERSPORT PSL" },
-            {"url": "https://24sports-net.blogspot.com/?24spn=https://24sports-plus.blogspot.com/?id=384", "buttonName": "BEIN SPORTS USA" }
+            {"url": "https://24sports-net.blogspot.com/?24spn=https://24sports-plus.blogspot.com/?id=335", "buttonName": "DIEMA SPORTS BULGERIA"}
         ],
         "rank": "top"
     },
     {
         "id": 4,
         "event_category": "FOOTBALL",
-        "title": "CLUB FRIENDLY",
-        "src": "https://mrfixitstips.co.uk/app/uploads/2025/07/Sydney-v-Wrexham.jpg",
-        "match-details": "SYDNEY FC vs WREXHAM FC",
-        "time": "15/07/2025 | 03:00 P.M IST",
-        "end-time": "15/07/2025 | 05:30 P.M IST",
+        "title": "SCOTTISH LEAGUE CUP 2025-2026",
+        "src": "https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/8196/production/_132547133_kilvliv_text_ss.jpg",
+        "match-details": "KILMARNOCK vs LIVINGSTON",
+        "time": "17/07/2025 | 12:45 A.M IST",
+        "end-time": "17/07/2025 | 03:00 P.M IST",
         "live-status": "LIVE",
         "feeds": [
-            {"url": "https://24sports-net.blogspot.com/?24spn=https://24sports-plus.blogspot.com/?id=106", "buttonName": "SPORT TV 1 PORTUGAL"},
-            {"url": "https://24sports-net.blogspot.com/?24spn=https://24sports-plus.blogspot.com/?id=105", "buttonName": "SKY SPORT TOP EVENTS"}
+            {"url": "https://24sports-net.blogspot.com/?24spn=https://24sports-plus.blogspot.com/?id=392", "buttonName": "VIAPLAY SPORTS 1 UK"},
+            {"url": "https://24sports-net.blogspot.com/?24spn=https://24sports-plus.blogspot.com/?id=49", "buttonName": "PREMIER SPORTS 1 IRELAND"},
+            {"url": "https://24sports-net.blogspot.com/?24spn=https://24sports-plus.blogspot.com/?id=303", "buttonName": "COSMOTE SPORTS 2 GREECE"}
         ],
         "rank": "top"
     },
     {
         "id": 5,
-        "event_category": "CRICKET",
-        "title": "AUSTRALIA TOUR OF WEST INDIES, 2025",
-        "src": "https://www.fancode.com/skillup-uploads/cms-media/WI_vs_AUS_2025_Old_match-card_2025_Old_match-card.jpg",
-        "match-details": "ENGLAND vs INDIA",
-        "time": "16/07/2025 | 12:00 A.M IST",
-        "end-time": "17/07/2025 | 10:00 A.M IST",
+        "event_category": "FOOTBALL",
+        "title": "UEFA WOMEN'S EURO 2025-2026",
+        "src": "https://tbp-blog-images.s3.us-east-1.amazonaws.com/TBP/blog-image/Resized/800*600/0.7425018632911626.jpg",
+        "match-details": "NORWAY vs ITALY",
+        "time": "17/07/2025 | 01:00 A.M IST",
+        "end-time": "17/07/2025 | 03:30 A.M IST",
         "live-status": "LIVE",
         "feeds": [
-            {"url": "https://24sports-fancode.blogspot.com", "buttonName": "FANCODE (INDIA)"},
-            {"url": "https://24sports-net.blogspot.com/?24spn=https://24sports-plus.blogspot.com/?id=29", "buttonName": "TNT SPORTS"},
-            {"url": "https://24sports-net.blogspot.com/?24spn=https://24sports-plus.blogspot.com/?id=120", "buttonName": "SUPERSPORT CRICKET" },
-            {"url": "https://24sports-net.blogspot.com/?24spn=https://24sports-plus.blogspot.com/?id=123", "buttonName": "SUPERSPORT GRANDSTAND" }
+            {"url": "https://24sports-fancode.blogspot.com", "buttonName": "BBC ONE UK"},
+            {"url": "https://24sports-net.blogspot.com/?24spn=https://24sports-plus.blogspot.com/?id=263", "buttonName": "RTE 2 IRELAND"},
+            {"url": "https://24sports-net.blogspot.com/?24spn=https://24sports-plus.blogspot.com/?id=136", "buttonName": "TSN 1" },
+            {"url": "https://24sports-net.blogspot.com/?24spn=https://24sports-plus.blogspot.com/?id=139", "buttonName": "TSN 4" },
+            {"url": "https://24sports-net.blogspot.com/?24spn=https://24sports-plus.blogspot.com/?id=157", "buttonName": "DAZN 1 GERMANY" },
+            {"url": "https://24sports-net.blogspot.com/?24spn=https://24sports-plus.blogspot.com/?id=212", "buttonName": "ESPN 3 ARGENTINA" },
+            {"url": "https://24sports-net.blogspot.com/?24spn=https://24sports-plus.blogspot.com/?id=121", "buttonName": "SUPERSPORT FOOTBALL" },
+            {"url": "https://24sports-net.blogspot.com/?24spn=https://24sports-plus.blogspot.com/?id=265", "buttonName": "BEIN SPORTS 1" }
         ],
         "rank": "top"
     },
@@ -82,7 +86,7 @@
         "src": "https://img10.hotstar.com/image/upload/sources/r1/cms/prod/5024/1505024-a-d94ca3f03469",
         "match-details": "SOUTH AFRICA vs AUSTRALIA",
         "time": "25/06/2025 | 02:33 P.M IST",
-        "end-time": "30/07/2025 | 12:00 A.M IST",
+        "end-time": "30/06/2025 | 12:00 A.M IST",
         "live-status": "LIVE",
         "feeds": [
             {"url": "https://24sports-network-prime.blogspot.com/?24spn=https://24sports-pro.blogspot.com/?id=513", "buttonName": "ISL ENGLISH"},
@@ -99,7 +103,7 @@
         "src": "https://img10.hotstar.com/image/upload/sources/r1/cms/prod/9545/1569545-a-0e8b7f6d139b",
         "match-details": "LIVERPOOL vs MANCHESTER CITY",
         "time": "25/06/2025 | 01:01 P.M IST",
-        "end-time": "30/07/2025 | 01:00 A.M IST",
+        "end-time": "30/06/2025 | 01:00 A.M IST",
         "live-status": "LIVE",
         "feeds": [
             {"url": "https://24sports-network-prime.blogspot.com/?24spn=https://24sports-pro.blogspot.com/?id=513", "buttonName": "ISL ENGLISH"},
