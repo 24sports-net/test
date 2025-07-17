@@ -3,14 +3,13 @@
     "id": 1,
     "event_category": "FOOTBALL",
     "title": "CLUB FRIENDLY",
-    "src": "https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/9106/live/2f03e830-a97f-11ee-bc2f-cb5579b90709.png",
-    "match-details": "BRIGHTON & HOVE ALBION vs STOKE CITY",
-    "time": "17/07/2025 | 12:00 A.M IST",
-    "end-time": "17/07/2025 | 02:30 A.M IST",
+    "src": "https://image.hurimg.com/i/hurriyet/75/750x422/6878cb34c25059b6e309120f.jpg",
+    "match-details": "BASAKSEHIR VS FORTUNA DUSSELDORF",
+    "time": "17/07/2025 | 07:30 P.M IST",
+    "end-time": "17/07/2025 | 10:00 P.M IST",
     "live-status": "LIVE",
     "feeds": [
-        {"url": "https://24sports-net.blogspot.com/?24spn=https://24sports-plus.blogspot.com/?id=291", "buttonName": "ARENA 1 PREMIUM" },
-            {"url": "https://24sports-net.blogspot.com/?24spn=https://24sports-plus.blogspot.com/?id=52", "buttonName": "ESPN DEPORTES" }
+        {"url": "https://24sports-net.blogspot.com/?24spn=https://24sports-plus.blogspot.com/?id=1000", "buttonName": "24 SPORTS PLUS" }
     ],
     "rank": "normal"
     },
