@@ -16,28 +16,28 @@
     {
         "id": 2,
         "event_category": "FOOTBALL",
-        "title": "CLUB FRIENDLY",
-        "src": "https://tips.gg/match/panathinaikos-vs-westerlo-16-07-2025-07-00/poster/",
-        "match-details": "WESTERLO vs PANATHINAIKOS",
-        "time": "17/07/2025 | 12:00 A.M IST",
-        "end-time": "17/07/2025 | 02:30 A.M IST",
+        "title": "UEFA CONFERENCE LEAGUE 2025-2026",
+        "src": "https://r2.thesportsdb.com/images/media/event/thumb/lyraz91750758708.jpg",
+        "match-details": "BFC DAUGAVPILS VS VLLAZNIA SHKODËR",
+        "time": "17/07/2025 | 08:30 P.M IST",
+        "end-time": "17/07/2025 | 10:00 P.M IST",
         "live-status": "LIVE",
         "feeds": [
-            {"url": "https://24sports-net.blogspot.com/?24spn=https://24sports-plus.blogspot.com/?id=302", "buttonName": "COSMOTE SPORTS 1"}
+            {"url": "https://24sports-net.blogspot.com/?24spn=https://24sports-plus.blogspot.com/?id=1001", "buttonName": "24 SPORTS PLUS"}
         ],
         "rank": "top"
     },
     {
         "id": 3,
         "event_category": "FOOTBALL",
-        "title": "UEFA CHAMPIONS LEAGUE 2025-2026",
-        "src": "https://mrfixitstips.co.uk/app/uploads/2025/07/Dinamo-Minsk-v-Ludogorets.jpg",
-        "match-details": "DINAMO MINSK vs LUDOGORETS",
-        "time": "17/07/2025 | 12:45 A.M IST",
-        "end-time": "17/07/2025 | 03:00 A.M IST",
+        "title": "UEFA EUROPA LEAGUE 2025-2026",
+        "src": "https://r2.thesportsdb.com/images/media/event/thumb/col8bj1750759028.jpg",
+        "match-details": "AKTOBE VS LEGIA WARSZAWA",
+        "time": "17/07/2025 | 09:30 P.M IST",
+        "end-time": "17/07/2025 | 11:30 P.M IST",
         "live-status": "LIVE",
         "feeds": [
-            {"url": "https://24sports-net.blogspot.com/?24spn=https://24sports-plus.blogspot.com/?id=335", "buttonName": "DIEMA SPORTS BULGERIA"}
+            {"url": "https://24sports-net.blogspot.com/?24spn=https://24sports-plus.blogspot.com/?id=502", "buttonName": "24 SPORTS PLUS"}
         ],
         "rank": "top"
     },
