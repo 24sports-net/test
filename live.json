@@ -80,18 +80,16 @@
     },
     {
         "id": 6,
-        "event_category": "FOOTBALL",
-        "title": "WORLD TEST CHAMPIONSHIP FINAL",
-        "src": "https://img10.hotstar.com/image/upload/sources/r1/cms/prod/5024/1505024-a-d94ca3f03469",
-        "match-details": "SOUTH AFRICA vs AUSTRALIA",
-        "time": "25/06/2025 | 02:33 P.M IST",
-        "end-time": "30/06/2025 | 12:00 A.M IST",
+        "event_category": "CRICKET",
+        "title": "WORLD CHAMPIONSHIP OF LEGENDS 2025",
+        "src": "https://www.fancode.com/skillup-uploads/cms-media/129718_5370_EDC_PNC_fc-Web.jpg",
+        "match-details": "ENGAND CHAMPIONS vs PAKISTAN CHAMPIONS",
+        "time": "18/07/2025 | 09:00 P.M IST",
+        "end-time": "18/07/2025 | 11:59 P.M IST",
         "live-status": "LIVE",
         "feeds": [
-            {"url": "https://24sports-network-prime.blogspot.com/?24spn=https://24sports-pro.blogspot.com/?id=513", "buttonName": "ISL ENGLISH"},
-            {"url": "https://24sports-network-prime.blogspot.com/?24spn=https://24sports-pro.blogspot.com/?id=513", "buttonName": "ISL MALAYALAM"},
-            {"url": "https://24sports-network-prime.blogspot.com/?24spn=https://24sports-pro.blogspot.com/?id=513", "buttonName": "ISL HINDI" },
-            {"url": "https://24sports-network-prime.blogspot.com/?24spn=https://24sports-pro.blogspot.com/?id=513", "buttonName": "ISL BENGALI" }
+            {"url": "https://24sports-net.blogspot.com/?24spn=https://24sports-plus.blogspot.com/?id=220", "buttonName": "WILLOW TV (OUTSIDE INDIA)"},
+            {"url": "https://24sports-net.blogspot.com/?24spn=https://dzh8781a.live.codepad.app/?24spn=https://in-mc-fdlive.fancode.com/mumbai/129718_english_hls_97303ta-di_h264/index.m3u8", "buttonName": "FANCODE (INDIA ONLY)"}
         ],
         "rank": "top"
     },
