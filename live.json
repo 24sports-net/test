@@ -5,8 +5,8 @@
     "title": "CLUB FRIENDLY",
     "src": "https://image.hurimg.com/i/hurriyet/75/750x422/6878cb34c25059b6e309120f.jpg",
     "match-details": "BASAKSEHIR VS FORTUNA DUSSELDORF",
-    "time": "17/07/2025 | 07:30 P.M IST",
-    "end-time": "17/07/2025 | 10:00 P.M IST",
+    "time": "17/09/2025 | 07:30 P.M IST",
+    "end-time": "17/11/2025 | 10:00 P.M IST",
     "live-status": "LIVE",
     "feeds": [
         {"url": "https://24sports-net.blogspot.com/?24spn=https://24sports-plus.blogspot.com/?id=1000", "buttonName": "24 SPORTS PLUS" }
@@ -20,7 +20,7 @@
         "src": "https://r2.thesportsdb.com/images/media/event/thumb/lyraz91750758708.jpg",
         "match-details": "BFC DAUGAVPILS VS VLLAZNIA SHKODËR",
         "time": "17/07/2025 | 08:30 P.M IST",
-        "end-time": "17/07/2025 | 10:00 P.M IST",
+        "end-time": "17/11/2025 | 10:00 P.M IST",
         "live-status": "LIVE",
         "feeds": [
             {"url": "https://24sports-net.blogspot.com/?24spn=https://24sports-plus.blogspot.com/?id=1001", "buttonName": "24 SPORTS PLUS"}
@@ -34,7 +34,7 @@
         "src": "https://r2.thesportsdb.com/images/media/event/thumb/col8bj1750759028.jpg",
         "match-details": "AKTOBE VS LEGIA WARSZAWA",
         "time": "17/07/2025 | 09:30 P.M IST",
-        "end-time": "17/07/2025 | 11:30 P.M IST",
+        "end-time": "17/11/2025 | 11:30 P.M IST",
         "live-status": "LIVE",
         "feeds": [
             {"url": "https://24sports-net.blogspot.com/?24spn=https://24sports-plus.blogspot.com/?id=502", "buttonName": "24 SPORTS PLUS"}
@@ -48,7 +48,7 @@
         "src": "https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/8196/production/_132547133_kilvliv_text_ss.jpg",
         "match-details": "KILMARNOCK vs LIVINGSTON",
         "time": "17/07/2025 | 12:45 A.M IST",
-        "end-time": "17/07/2025 | 03:00 P.M IST",
+        "end-time": "17/11/2025 | 03:00 P.M IST",
         "live-status": "LIVE",
         "feeds": [
             {"url": "https://24sports-net.blogspot.com/?24spn=https://24sports-plus.blogspot.com/?id=392", "buttonName": "VIAPLAY SPORTS 1 UK"},
@@ -64,7 +64,7 @@
         "src": "https://tbp-blog-images.s3.us-east-1.amazonaws.com/TBP/blog-image/Resized/800*600/0.7425018632911626.jpg",
         "match-details": "NORWAY vs ITALY",
         "time": "17/07/2025 | 01:00 A.M IST",
-        "end-time": "17/07/2025 | 03:30 A.M IST",
+        "end-time": "17/11/2025 | 03:30 A.M IST",
         "live-status": "LIVE",
         "feeds": [
             {"url": "https://24sports-fancode.blogspot.com", "buttonName": "BBC ONE UK"},
@@ -85,7 +85,7 @@
         "src": "https://www.fancode.com/skillup-uploads/cms-media/129718_5370_EDC_PNC_fc-Web.jpg",
         "match-details": "ENGAND CHAMPIONS vs PAKISTAN CHAMPIONS",
         "time": "18/07/2025 | 09:00 P.M IST",
-        "end-time": "18/07/2025 | 11:59 P.M IST",
+        "end-time": "18/11/2025 | 11:59 P.M IST",
         "live-status": "LIVE",
         "feeds": [
             {"url": "https://24sports-net.blogspot.com/?24spn=https://24sports-plus.blogspot.com/?id=220", "buttonName": "WILLOW TV (OUTSIDE INDIA)"},
@@ -100,7 +100,7 @@
         "src": "https://img10.hotstar.com/image/upload/sources/r1/cms/prod/9545/1569545-a-0e8b7f6d139b",
         "match-details": "LIVERPOOL vs MANCHESTER CITY",
         "time": "25/06/2025 | 01:01 P.M IST",
-        "end-time": "30/06/2025 | 01:00 A.M IST",
+        "end-time": "30/10/2025 | 01:00 A.M IST",
         "live-status": "LIVE",
         "feeds": [
             {"url": "https://24sports-network-prime.blogspot.com/?24spn=https://24sports-pro.blogspot.com/?id=513", "buttonName": "ISL ENGLISH"},
