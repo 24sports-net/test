@@ -9,8 +9,8 @@
     "end-time": "29/10/2025 | 05:00 A.M IST",
     "live-status": "LIVE",
     "feeds": [
-        {"url": "https://24sports-net.blogspot.com/?24spn=https://24sports-plus.blogspot.com/?id=1000", "buttonName": "TNT SPORTS (INDIA)" },
-        {"url": "https://24sports-net.blogspot.com/?24spn=https://24sports-plus.blogspot.com/?id=303", "buttonName": "TNT SPORTS (OUTSIDE IND)"}
+        {"url": "https://24sports-net.blogspot.com/?24spn=TNT1-IND", "buttonName": "TNT SPORTS (INDIA)" },
+        {"url": "https://24sports-net.blogspot.com/?24spn=TNT-SPORTS-1", "buttonName": "TNT SPORTS (OUTSIDE IND)"}
     ],
     "rank": "normal"
     }
